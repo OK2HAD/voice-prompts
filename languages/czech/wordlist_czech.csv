@@ -72,14 +72,14 @@ PROMPT_MINUS,,,Mínus
 PROMPT_VFO_EXCHANGE_TX_RX,,,Zamjenit frekvenci vysílání za frekvenci pro příjem
 PROMPT_VFO_COPY_RX_TO_TX,,,Kopíírovat frekvenci příjem na frekvenci pro vysílání
 PROMPT_VFO_COPY_TX_TO_RX,,,Kopíírovat frekvenci vysílání na frekvenci pro příjem
-PROMPT_POWER,,,power
-PROMPT_CHANNEL_MODE,,,channel mode
-PROMPT_SCAN_MODE,,,scan mode
-PROMPT_TIMESLOT_MODE,,,timeslot mode
-PROMPT_FILTER_MODE,,,filter mode
-PROMPT_ZONE_MODE,,,zone mode
-PROMPT_POWER_MODE,,,power mode
-PROMPT_COLORCODE_MODE,,,color code mode
+PROMPT_POWER,,,Napáajení
+PROMPT_CHANNEL_MODE,,,Kanál Mood
+PROMPT_SCAN_MODE,,,Sken Mood
+PROMPT_TIMESLOT_MODE,,,Tajm Slot Mood
+PROMPT_FILTER_MODE,,,filter Mood
+PROMPT_ZONE_MODE,,,zone Mood
+PROMPT_POWER_MODE,,,Napáajení Mood
+PROMPT_COLORCODE_MODE,,,Kolor kood Mood
 PROMPT_TBD1,,,
 PROMPT_TBD2,,,
 PROMPT_TBD3,,,
